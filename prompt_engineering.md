@@ -10,7 +10,7 @@ Prompt: "What are the 5 best restaurants in Chinatown?"
 - We’re not saying what it will be used for
 - We’re not giving the audience
 
-You *might* get some useful answers with restaurants in San Francisco, but ChatGPT doesn't know where you are, so it could give a list of places in NYC (or anywhere else with a Chinatown!). It could also completely make up restaurant names that sound plausible.
+You *might* get some useful answers with restaurants in San Francisco, but ChatGPT doesn't know where you are, so it could give a list of places in NYC (or anywhere else with a Chinatown!). It could also completely make up restaurant names that sound plausible.\*
 
 A better prompt: "You are a tourist visiting San Francisco looking to have a memorable meal and spend less than $100 per person. What are the 5 best reviewed restaurants in Chinatown in San Francisco? Create a list with the name of the restaurant, the average star review from Yelp, and the address with a link that opens up in Google Maps."
 - We ask a more specific question
@@ -36,12 +36,14 @@ A better prompt: "You are a tourist visiting San Francisco looking to have a mem
 
 9. **Give Feedback to the AI:** There are built in ways to give feedback to the AI (usually a thumbs up/down), but you can also write in if you want something to be changed. “This presentation is too wordy. Can you make it shorter and tailor it for an audience of 8th graders?” Keep in mind that these instructions won’t persist across multiple chats unless you adjust your settings within your ChatGPT or OpenEvidence accounts.
 
-10. **Ask the AI for Help:**  It feels a bit meta, but you can get some great suggestions this way. Adding questions to the end of your prompt like “What should I ask you to help me do [X]?”, “What other information do you need to do [X]?”, or “What would you suggest I ask you to get a more specific answer?” will give you more info to refine your prompt further.
+10. **Ask the AI for Help:**  It feels a bit meta, but you can get some great suggestions this way. Adding questions to the end of your prompt like “What should I ask you to help me do this task?”, “What other information do you need to do this task well?”, or “What would you suggest I ask you to get a more specific answer?” will give you more info to refine your prompt further.
 
 11.  **Ask the AI to Check for Errors**: Give instructions for the model to check for errors or confirm accuracy. Depending on the task, this could be as simple as saying, "Before displaying your response, check in the source material to make sure you have the correct information."
 
 ## Notes
 For many models, the free versions will have a limit on the number of tokens you can use in a certain time or the types of analyses you can perform. Each tool will have its own constraints. Try to find out what limits you have so you know what you can expect from your interaction with the GenAI. For example, when you hit your free limit in ChatGPT, the model version may switch.
+
+\* Depending on your privacy settings (including website cookies), the tool might know your location and show you relevant results. It might also "remember" information about you depending on your account settings, so it could provide information for the place it thinks you live rather than your curent location.
 
 ## Table of Contents
 - [Getting started](getting_started.html)
